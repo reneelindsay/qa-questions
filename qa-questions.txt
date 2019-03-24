@@ -1,0 +1,76 @@
+The following Q & A are inspired by input from professional QA Engineers on Toptal, a 
+freelancing platform out of Silicon Valley that connects businesses to Software Engineers,
+Designers, and Business Consultants from all over the world.
+
+Find the complete list of questions and answers at https://www.toptal.com/qa/interview-questions
+
+
+
+1. HOW DO YOU KNOW WHEN YOU'VE TESTED ENOUGH?
+
+It’s not always possible to “test all the things” in every conceivable way, particularly when 
+working within deadlines. Constructing a realistic-yet-thorough end point in testing is known 
+as “exit criteria” and requires careful consideration. 
+
+Determining which issues have the highest priority and severity allow for the most important 
+tests to be run andcorresponding issues resolved. It requires a deep understanding of user 
+expectations and efficient ways to write and execute tests. 
+
+Documenting all changes to the user story, executing all test cases, and ensuring that 95% of 
+tests pass are examples of good exit criteria. 
+
+Critical failures need to be addressed and remedied, and the user must be able to interact with 
+the product in accordance with their expectations.
+
+
+
+2. IS QUALITY ASSURANCE THE SAME AS QUALITY CONTROL?
+
+No. Quality Assurance is process-oriented. It ensures that the designing, implementation, and 
+maintaining of efficient testing procedures occur between testing teams and developers. 
+
+Quality Control is product-oriented. It concerns the actual tests themselves, and resolves issues 
+that tests uncover with the user story and user expectations in mind. 
+
+
+
+3. WHAT'S THE DIFFERENCE BETWEEN "SEVERITY" AND "PRIORITY"?
+
+“Severity” is how serious an issue is. A web page that crashes when clicking on a button is an 
+example of a high-severity issue. “Priority” indicates how quickly an issue needs to be addressed. 
+
+However, high severity does not always mean high priority. For example, say the button that causes 
+a web page to crash does so on a legacy page that gets almost no traffic. The severity is high, but 
+since the page is rarely visited by users, its priority is low.
+
+Conversely, high priority issues can have low severity. The wrong image for a product, for example, 
+is an issue that needs to be addressed quickly, even if the web page is running smoothly. Typos 
+fall into the high-priority, low-severity category as well. 
+
+
+
+4. WHAT'S THE DIFFERENCE BETWEEN "VERIFICATION" AND "VALIDATION"?
+
+“Verification” addresses the need to build a system that has everything required to satisfy 
+requirements and is working properly. Verification is concerned with identifying and resolving 
+defects in the specification documentation.
+
+“Validation” sounds similar and is often (mistakenly) used interchangeably with “verification.” 
+However, validation is concerned with building the proper system, not building the system properly. 
+In other words, validation addresses the needs and expectations of the user. A system could be 
+verified—that is, working properly—and still fall short of user expectations. In this case, the 
+system is not validated and needs to be adjusted with the user story in mind. 
+
+Where verification finds and resolves defects in specification documentation, validation 
+finds and resolves defects in software implementation.
+
+
+
+5. AUTOMATION SEEMS LIKE THE FUTURE OF TESTING. WHEN IS MANUAL TESTING ACTUALLY BETTER?
+
+Automation is a powerful testing approach, but there are situations when it is a waste of 
+resources. For example, when validation is subjective (that is, dependent on a person judging 
+the look and feel, usability, UX/UI, etc.), automated tests are undesirable. 
+
+Additionally, when deeper insight into a system is required, or when test cases are extremely 
+complex and automated tests are wasteful.
