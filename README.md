@@ -2,4 +2,8 @@
 
 The above text file is an evolving list of questions and answers regarding the process of Quality Assurance testing, what strategies and planning to keep in mind when writing and implementing tests, and how to ensure efficiency and thoroughness in the testing process.
 
-The initial commit is inspired by a list of questions and answers from [Toptal.com](https://www.toptal.com/qa/interview-questions). Other resources, as well as my own contributions, appear as the list grows and evolves.
+The initial commit is inspired by a list of questions and answers from [Toptal.com](https://www.toptal.com/qa/interview-questions). This includes questions 1–5. 
+
+Question 6 comes from [softwaretestingfundamentals.com](http://softwaretestingfundamentals.com/test-plan/) 
+
+Additional resources, as well as my own contributions, will appear as this list grows and evolves.
