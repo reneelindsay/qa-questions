@@ -6,4 +6,6 @@ The initial commit is inspired by a list of questions and answers from [Toptal.c
 
 Question 6 comes from [softwaretestingfundamentals.com](http://softwaretestingfundamentals.com/test-plan/) 
 
+In order to refine my understanding of testing terms and concepts, I've written each question and its answer in my own words.
+
 Additional resources, as well as my own contributions, will appear as this list grows and evolves.
